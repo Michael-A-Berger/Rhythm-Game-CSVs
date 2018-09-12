@@ -1,2 +1,6 @@
 # Ignoring all .txt files
 *.txt
+!LICENSE.txt
+
+# Ignoring temporary files
+*.csv#
