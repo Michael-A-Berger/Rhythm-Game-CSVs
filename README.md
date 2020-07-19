@@ -12,14 +12,16 @@ Licensed under CC-BY-4.0
     - `iidx-25-cannon-ballers.csv`
     - Contains all CANNON BALLERS and SINOBUZ songs
     - Needs leftover songs from other styles
+- :x: Beatmania IIDX ULTIMATE MOBILE
+    - The first choice for this project that might be useful, esp. given how easy it would be to make
 - :x: DJMax Respect
     - Really want to do this one, what with the pandemic still happening
 - :part_alternation_mark: Groove Coaster (PC)
     - `groove-coaster-pc.csv`
     - Needs to be updated for current DLC
-- :part_alternation_mark: Muse Dash
+- :heavy_check_mark: Muse Dash
     - `muse-dash.csv`
-    - Needs to be updated to include all packs
+    - Current as of July 18th, 2020
 - :part_alternation_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
     - Needs to be updated with last songs from final few updates
@@ -30,6 +32,9 @@ Licensed under CC-BY-4.0
     - https://remywiki.com/CS_EMPRESS
 - Beatmania IIDX 25 CANNON BALLERS
     - https://remywiki.com/Beatmania_IIDX_25_CANNON_BALLERS_Full_Songlist
+- Beatmania IIDX ULTIMATE MOBILE
+    - https://remywiki.com/CS_ULTIMATE_MOBILE
+    - https://remywiki.com/CS_ULTIMATE_MOBILE/Arcade_Songs
 - DJMax Respect
     - http://cyphergate.net/index.php?title=DJMAX_RESPECT:Tracklist
 - Groove Coaster (PC)
