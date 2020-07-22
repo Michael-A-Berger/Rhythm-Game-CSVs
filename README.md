@@ -6,12 +6,15 @@ Licensed under CC-BY-4.0
 
 # Status
 
-- :heavy_check_mark: Beatmania IIDX 16 EMPRESS + PREMIUM BEST
+- :part_alternation_mark: Beatmania IIDX 16 EMPRESS + PREMIUM BEST
     - `iidx-16-empress-cs.csv`
+    - Want to renme "Style" column to "Origin" and add proper "Style" column
 - :part_alternation_mark: Beatmania IIDX 25 CANNON BALLERS
     - `iidx-25-cannon-ballers.csv`
     - Contains all CANNON BALLERS and SINOBUZ songs
     - Needs leftover songs from other styles
+- :heavy_check_mark: IIDX ULTIMATE MOBILE
+    - `iidx-ultimate-mobile.csv`
 - :x: Beatmania IIDX ULTIMATE MOBILE
     - The first choice for this project that might be useful, esp. given how easy it would be to make
 - :x: DJMax Respect
