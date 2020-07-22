@@ -12,11 +12,9 @@ Licensed under CC-BY-4.0
     - `iidx-25-cannon-ballers.csv`
     - Contains all CANNON BALLERS and SINOBUZ songs
     - Needs leftover songs from other styles
-- :heavy_check_mark: IIDX ULTIMATE MOBILE
+- :heavy_check_mark: Beatmania IIDX ULTIMATE MOBILE
     - `iidx-ultimate-mobile.csv`
     - Current as of July 22nd, 2020
-- :x: Beatmania IIDX ULTIMATE MOBILE
-    - The first choice for this project that might be useful, esp. given how easy it would be to make
 - :x: DJMax Respect
     - Really want to do this one, what with the pandemic still happening
 - :part_alternation_mark: Groove Coaster (PC)
