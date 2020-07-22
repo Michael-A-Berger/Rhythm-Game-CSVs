@@ -15,6 +15,7 @@ Licensed under CC-BY-4.0
     - Needs leftover songs from other styles
 - :heavy_check_mark: IIDX ULTIMATE MOBILE
     - `iidx-ultimate-mobile.csv`
+    - Current as of July 22nd, 2020
 - :x: Beatmania IIDX ULTIMATE MOBILE
     - The first choice for this project that might be useful, esp. given how easy it would be to make
 - :x: DJMax Respect
