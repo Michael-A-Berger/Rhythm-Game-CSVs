@@ -6,9 +6,8 @@ Licensed under CC-BY-4.0
 
 # Status
 
-- :part_alternation_mark: Beatmania IIDX 16 EMPRESS + PREMIUM BEST
+- :heavy_check_mark: Beatmania IIDX 16 EMPRESS + PREMIUM BEST
     - `iidx-16-empress-cs.csv`
-    - Want to renme "Style" column to "Origin" and add proper "Style" column
 - :part_alternation_mark: Beatmania IIDX 25 CANNON BALLERS
     - `iidx-25-cannon-ballers.csv`
     - Contains all CANNON BALLERS and SINOBUZ songs
