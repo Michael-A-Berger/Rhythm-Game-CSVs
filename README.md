@@ -19,13 +19,12 @@ Licensed under CC-BY-4.0
     - Really want to do this one, what with the pandemic still happening
 - :part_alternation_mark: Groove Coaster (PC)
     - `groove-coaster-pc.csv`
-    - Needs to be updated for current DLC
+    - Needs to be updated for current updates (base game + DLC)
 - :heavy_check_mark: Muse Dash
     - `muse-dash.csv`
     - Current as of July 18th, 2020
-- :part_alternation_mark: Pump It Up Prime 2
+- :heavy_check_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
-    - Add Single Performance + Double Performance + Co-op charts for Fiesta 2+, as well as region-exclusive songs.
 
 # Sources
 
@@ -44,10 +43,11 @@ Licensed under CC-BY-4.0
     - https://musedash.gamepedia.com/Songs
 - Pump It Up Prime 2
     - http://www.piugame.com/piu.prime2/intro/pdf/PumpItUp_Prime2_FullSongList.pdf
+    - http://www.piugame.com/piu.prime2/itemshop/stepShop.php
     - (personal observations)
 
 # To-Do List
 
 1. Start DJMax Respect CSV
-2. Add newest DLC to Groove Coaster PC CSV
+2. Add newest songs to Groove Coaster PC CSV
 3. Complete IIDX 25 song + chart CSV
