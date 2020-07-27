@@ -25,7 +25,7 @@ Licensed under CC-BY-4.0
     - Current as of July 18th, 2020
 - :part_alternation_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
-    - Needs Single Performance + Double Performance charts, as well as region-exclusive songs.
+    - Add Single Performance + Double Performance + Co-op charts for Fiesta 2+, as well as region-exclusive songs.
 
 # Sources
 
