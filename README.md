@@ -25,7 +25,7 @@ Licensed under CC-BY-4.0
     - Current as of July 18th, 2020
 - :part_alternation_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
-    - Needs to be updated with last songs from final few updates
+    - Needs Single Performance + Double Performance charts, as well as region-exclusive songs.
 
 # Sources
 
