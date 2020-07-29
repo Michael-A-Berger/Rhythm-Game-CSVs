@@ -1,6 +1,6 @@
 # Rhythm-Game-CSVs
 
-CSV files that list playable songs + charts in different rhythm games.
+CSV files (formatted in UTF-8) that list playable songs + charts in different rhythm games.
 
 Licensed under CC-BY-4.0
 
@@ -25,6 +25,44 @@ Licensed under CC-BY-4.0
     - Current as of July 18th, 2020
 - :heavy_check_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
+    
+# Repository Rules
+
+These are the current rules the repository adheres to;
+
+1. A rhythm game's CSV file is not created until the game is publicly available.
+    - AKA this repo doesn't track song lists and charts for unreleased rhythm games.
+2. The CSV files do _NOT_ track chart re-ratings across game updates.
+    - If a new chart "Replaces" an old chart _but that old chart is still playable_, then the old chart is still tracked.
+3. Song removals across game updates are tracked and their related game content (ex; charts) is tracked.
+4. The CSV files are updated when the corresponding rhythm games get a new update. Song and chart additions regarding unreleased content are not tracked.
+5. _For now,_ this repository only tracks songs and charts for commercially released rhythm games. Any additions or requests for Osu! beatmap and Stepmania song pack CSV files will be rejected.
+
+If you have any qualms with these rules, create a **[New Issue](https://github.com/Michael-A-Berger/Rhythm-Game-CSVs/issues/new/choose)** and we'll discuss your proposal.
+
+# Contribution Instructions
+
+If you'd like to contribute to this collection, please follow these steps;
+
+1. Fork the repository.
+2. In your project fork, make the changes.
+    - **Adding New Game File:** Create the CSV file and include as many included songs and charts as you can.
+    - **Editing Game File:** Edit the specific information.
+3. Commit the changes and push them to the `master` branch of your fork.
+4. Create a **[New Pull Request](https://github.com/Michael-A-Berger/Rhythm-Game-CSVs/compare)** asking to merge the forked `master` branch into the original `master` branch on this repository.
+    - In the pull request, please list the sources for your information (be they official patch notes or forums).
+
+I will do my best to review new pull requests ASAP, although they may take me several days to get to.
+
+# New CSV Addition Suggestions
+
+If you are looking to add a new CSV file that tracks songs and charts for a rhythm game not already included in this reposiroty, these are my _personal_ suggestions for how to approach completing the task;
+
+- Don't feel bad about taking the main bulk of your info from other websites. The only caveat I ask is that you list your sources for your information.
+    - The best artists steal ideas and morph them into something new. Honest artists list their inspirations, and data is nothing but honest art.
+- More information is better, but don't burden yourself with overkill details. Focus on the key elements (song name, chart ratings, BPM, length, etc) instead of superfluous details (song production tools, background artists, etc).
+- If each chart has an in-game classification that groups it and other charts together (ex; "Basic", "Difficult", "Expert", "Challenge", etc), you should make each classification its own column in the CSV file.
+    - If charts are not distinguished by any in-game classification (or if there exists multiple charts for the same classification), list their ratings in the same column but separate them by spaces (ex; song "Cool Tune" with the charts S11, S22, and S33 becomes "11 22 33" under the column "S").
 
 # Sources
 
