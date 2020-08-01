@@ -22,7 +22,7 @@ Licensed under CC-BY-4.0
     - Needs to be updated for current updates (base game + DLC)
 - :heavy_check_mark: Muse Dash
     - `muse-dash.csv`
-    - Current as of July 18th, 2020
+    - Current as of August 1st, 2020
 - :heavy_check_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
     
