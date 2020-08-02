@@ -25,6 +25,8 @@ Licensed under CC-BY-4.0
     - Current as of August 1st, 2020
 - :heavy_check_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
+- :heavy_check_mark: Sound Voltex Booth
+    - `sound-voltex-booth.csv`
     
 # Repository Rules
 
@@ -83,6 +85,8 @@ If you are looking to add a new CSV file that tracks songs and charts for a rhyt
     - http://www.piugame.com/piu.prime2/intro/pdf/PumpItUp_Prime2_FullSongList.pdf
     - http://www.piugame.com/piu.prime2/itemshop/stepShop.php
     - (personal observations)
+- Sound Voltex Booth
+    - https://remywiki.com/AC_SDVX
 
 # To-Do List
 
