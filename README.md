@@ -12,6 +12,9 @@ Licensed under CC-BY-4.0
     - `iidx-25-cannon-ballers.csv`
     - Contains all CANNON BALLERS and SINOBUZ songs
     - Needs leftover songs from other styles
+- :heavy_check_mark: Beatmania IIDX 26 Rootage
+    - `iidx-26-rootage.csv`
+    - First CSV created using my **[RemyWiki Downloader](https://github.com/Michael-A-Berger/RemyWiki-Downloader)**
 - :heavy_check_mark: Beatmania IIDX ULTIMATE MOBILE
     - `iidx-ultimate-mobile.csv`
     - Current as of July 22nd, 2020
@@ -72,6 +75,8 @@ If you are looking to add a new CSV file that tracks songs and charts for a rhyt
     - https://remywiki.com/CS_EMPRESS
 - Beatmania IIDX 25 CANNON BALLERS
     - https://remywiki.com/Beatmania_IIDX_25_CANNON_BALLERS_Full_Songlist
+- Beatmania IIDX 26 Rootage
+    - https://remywiki.com/Beatmania_IIDX_26_Rootage_Full_Songlist
 - Beatmania IIDX ULTIMATE MOBILE
     - https://remywiki.com/CS_ULTIMATE_MOBILE
     - https://remywiki.com/CS_ULTIMATE_MOBILE/Arcade_Songs
