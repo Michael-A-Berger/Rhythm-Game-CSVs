@@ -20,7 +20,7 @@ Licensed under CC-BY-4.0
     - Current as of July 22nd, 2020
 - :heavy_check_mark: DJMax Respect
     - `djmax-respect.csv`
-    - Created with the help of an anonynmous contributor.
+    - Created with the help of **[Alex Pasieka](https://github.com/alexpasieka)**
 - :part_alternation_mark: Groove Coaster (PC)
     - `groove-coaster-pc.csv`
     - Needs to be updated for current updates (base game + DLC)
