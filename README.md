@@ -18,8 +18,9 @@ Licensed under CC-BY-4.0
 - :heavy_check_mark: Beatmania IIDX ULTIMATE MOBILE
     - `iidx-ultimate-mobile.csv`
     - Current as of July 22nd, 2020
-- :x: DJMax Respect
-    - Really want to do this one, what with the pandemic still happening
+- :heavy_check_mark: DJMax Respect
+    - `djmax-respect.csv`
+    - Created with the help of an anonynmous contributor.
 - :part_alternation_mark: Groove Coaster (PC)
     - `groove-coaster-pc.csv`
     - Needs to be updated for current updates (base game + DLC)
@@ -95,6 +96,6 @@ If you are looking to add a new CSV file that tracks songs and charts for a rhyt
 
 # To-Do List
 
-1. Start DJMax Respect CSV
-2. Add newest songs to Groove Coaster PC CSV
+1. Add newest songs to Groove Coaster PC CSV
+2. Rework Sound Voltex Booth CSV to include standard RemyWiki attributes (arrangement, note counts, etc.)
 3. Complete IIDX 25 song + chart CSV
