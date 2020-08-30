@@ -20,13 +20,14 @@ Licensed under CC-BY-4.0
     - Current as of July 22nd, 2020
 - :heavy_check_mark: DJMax Respect
     - `djmax-respect.csv`
+    - Current as of August 30th, 2020
     - Created with the help of **[Alex Pasieka](https://github.com/alexpasieka)**
 - :part_alternation_mark: Groove Coaster (PC)
     - `groove-coaster-pc.csv`
     - Needs to be updated for current updates (base game + DLC)
 - :heavy_check_mark: Muse Dash
     - `muse-dash.csv`
-    - Current as of August 1st, 2020
+    - Current as of August 30th, 2020
 - :heavy_check_mark: Pump It Up Prime 2
     - `piu-prime-2.csv`
 - :heavy_check_mark: Sound Voltex Booth
